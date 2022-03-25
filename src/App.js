@@ -89,6 +89,30 @@ function App() {
 					important over rigid forced contact and asking requirement for
 					development in small parts over development period.
 				</h4>
+				<h2 className="main_app_value">
+					Value No.4 Responding to Change Over Following a Plan.
+				</h2>
+				<ul>
+					<li>
+						This does not mean have no plan. In Software development we have all
+						kinds of planing. Having a plan is Important.
+					</li>
+					<li>
+						Traditionally when we're planing for projects what we are
+						thinking(saying) is that conditions of the universe didnt change
+						between now and the moment we finish it, this rearly happens.
+					</li>
+					<li>
+						While developing a complex piece of software somethings will always
+						go wrong or customer requirement change or there may be limitations
+						etc this may render plan useless.
+					</li>
+				</ul>
+				<h4>
+					Key Takeaway here Responding to Change in software devlopment is
+					important over just Following the plan. Thing doesnt go as planned
+					always.
+				</h4>
 			</div>
 		</>
 	);

@@ -63,6 +63,26 @@ function App() {
 					the shared understanding of customer and team without too much
 					focusing on documentation.
 				</h4>
+				<h2 className="main_app_value">
+					Value No.3 Customer Collaboration over Contract Negotiation.
+				</h2>
+				<ul>
+					<li>Allows keep in mind Customer Collaration</li>
+					<li>
+						We want to collaborate with customer because we want to delight our
+						customer and also want them to come back to us and rely on our
+						expertise for developing software.
+					</li>
+					<li>
+						When we Write Contract we need to keep customer success in mind.
+					</li>
+					<li>
+						It is actually not fair of development team to ask for all the
+						reqiurement in day one,customer are coming to you in the first place
+						for help, because they want this piece of softeare to be built by
+						you.
+					</li>
+				</ul>
 			</div>
 		</>
 	);

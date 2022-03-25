@@ -1,12 +1,17 @@
 import React from "react";
-import Fouragile from "./components/fouragile/fouragile";
-import MainNavbar from "./components/navbar/navbar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import MainLanding from "./page/mainlanding";
 
 function App() {
 	return (
 		<>
-			<MainNavbar />
-			<Fouragile />
+			<div>
+				<Router>
+					<Routes>
+						<Route path="/" element={<MainLanding />} exact />
+					</Routes>
+				</Router>
+			</div>
 		</>
 	);
 }

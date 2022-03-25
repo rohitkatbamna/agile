@@ -5,12 +5,12 @@ function App() {
 	return (
 		<>
 			<div className="main_app_all_of_it">
-				<h1>The Agile Fundamentals</h1>
+				<h1 className="main_app_main_header">The Agile Fundamentals</h1>
 				<h2>
 					Agile is a Philosophy guided by the Four Values and Twelve Principle.
 				</h2>
 				<h2>We Are Starting With Four Values</h2>
-				<h2>
+				<h2 className="main_app_value">
 					Value No. 1 Individuals and Interactions Over Processes and Tools.
 				</h2>
 				<ul>
@@ -32,7 +32,9 @@ function App() {
 					Key takaway here is Interactions are very important between
 					Stackeholders and teammembers.
 				</h4>
-				<h2>Value No.2 Working Software Over Comprehensive Documentation.</h2>
+				<h2 className="main_app_value">
+					Value No.2 Working Software Over Comprehensive Documentation.
+				</h2>
 				<ul>
 					<li>
 						This does not mean we need to stop Documentation because without it

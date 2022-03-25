@@ -67,22 +67,28 @@ function App() {
 					Value No.3 Customer Collaboration over Contract Negotiation.
 				</h2>
 				<ul>
-					<li>Allows keep in mind Customer Collaration</li>
 					<li>
 						We want to collaborate with customer because we want to delight our
 						customer and also want them to come back to us and rely on our
 						expertise for developing software.
 					</li>
 					<li>
-						When we Write Contract we need to keep customer success in mind.
+						When we Write Contract we need to keep customer success in mind. So
+						Don't Have strong Contract upfront, collaborate instead to create a
+						win-win situation.
 					</li>
 					<li>
-						It is actually not fair of development team to ask for all the
-						reqiurement in day one,customer are coming to you in the first place
-						for help, because they want this piece of softeare to be built by
-						you.
+						In Customer Collaration it is actually not fair of development team
+						to ask for all the reqiurement in day one,customer are coming to you
+						in the first place for help, because they want this piece of
+						software to be built by you.
 					</li>
 				</ul>
+				<h4>
+					Key Takeaway here Customer Collaboration in software devlopment is
+					important over rigid forced contact and asking requirement for
+					development in small parts over development period.
+				</h4>
 			</div>
 		</>
 	);

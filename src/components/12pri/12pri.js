@@ -10,7 +10,7 @@ function Twelve() {
 					Agile principles are descriptive guidelines help us make better
 					decisions thought our daily agile activities.
 				</h2>
-				<h2 className="fw-bold">Agile Principle No.1</h2>
+				<h2 className="fw-bold mt-3">Agile Principle No.1</h2>
 				<h2 className="fw-bold">
 					Our highest priority is to satisfy the customer through early and
 					continuous delivery of valuable software.
@@ -26,6 +26,11 @@ function Twelve() {
 						feature to the customer and they can give you Feedback.
 					</li>
 				</ul>
+				<h2 className="fw-bold mt-3">Agile Principle No.2</h2>
+				<h2 className="fw-bold">
+					Welcome changing requirements, even late in development. Agile
+					processes harness change for the customer's competitive advantage.
+				</h2>
 			</div>
 		</>
 	);

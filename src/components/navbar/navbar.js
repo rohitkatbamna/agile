@@ -39,9 +39,13 @@ function MainNavbar() {
 									</Link>
 								</li>
 								<li className="nav-item">
-									<p className="nav-link" aria-current="page">
-										Pricing
-									</p>
+									<Link to="/agilebenefits">
+										<p
+											className="nav-link btn btn-primary fs-5"
+											aria-current="page">
+											Agile Benefits
+										</p>
+									</Link>
 								</li>
 								<li className="nav-item">
 									<p className="nav-link disabled">Disabled</p>

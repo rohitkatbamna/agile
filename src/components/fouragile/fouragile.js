@@ -124,9 +124,11 @@ function Fouragile() {
 						And a lot of those frameworks have become methodology such as{" "}
 						<span className="fw-bold">scrum, kanban and scrumban</span>. And
 						those are the three most popular agile methodologies used by
-						companies today. In that scrum is the most popular Framkwork,
-						majority of companies that are utilizing agile are utilizing some
-						version of scrum.
+						companies today.{" "}
+						<span className="fw-bold">
+							In that scrum is the most popular Framework, majority of companies
+							that are utilizing agile are utilizing some version of scrum.
+						</span>
 						<br className="mb-4" />
 						Kanban is a little bit different way of working through more of a
 						continuous process rather than having various sections and segments

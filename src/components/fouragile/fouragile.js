@@ -113,6 +113,29 @@ function Fouragile() {
 					important over just Following the plan. Thing doesnt go as planned
 					always.
 				</h4>
+				<h3 className="fw-bold mt-5">Postscript</h3>
+				<div className="agile_frameworks mt-5">
+					<h3>
+						Agile is really a concept or a philosophy. Off of that, different
+						organizations and companies have built various frameworks that kind
+						of walk you through this step by step of how agile is performed
+						within that various company.
+						<br className="mb-4" />
+						And a lot of those frameworks have become methodology such as{" "}
+						<span className="fw-bold">scrum, kanban and scrumban</span>. And
+						those are the three most popular agile methodologies used by
+						companies today. In that scrum is the most popular Framkwork,
+						majority of companies that are utilizing agile are utilizing some
+						version of scrum.
+						<br className="mb-4" />
+						Kanban is a little bit different way of working through more of a
+						continuous process rather than having various sections and segments
+						that you'll learn about in scrum. Scrumban is really a combination
+						of both. A lot of companies that use scrumban and are using it as a
+						kind of a launching point for them to get from scrum to the kanban
+						methodology.
+					</h3>
+				</div>
 			</div>
 		</>
 	);

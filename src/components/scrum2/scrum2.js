@@ -49,6 +49,12 @@ function Scrum2() {
 					</span>
 					And they prioritized that user story in a way where the development
 					team knows exactly which ones to work on.
+					<ul>
+						<li>
+							So there's a lot of managerial type of stuff that really helps out
+							as a product owner.
+						</li>
+					</ul>
 					<br className="mb-3" />
 					<span className="fw-bold fs-2">Scrum Master</span>
 					<br className="mb-3" />
@@ -65,6 +71,44 @@ function Scrum2() {
 					<span className="fw-bold">
 						facilitate the various scrum meetings or ceremonies.
 					</span>
+					<ul>
+						<li className="fw-bold">
+							“What is a standup meeting?” According to The Scrum Guide, “the
+							daily scrum is a 15-minute time-boxed event for the development
+							team” to plan for the next 24 hours.
+						</li>
+						<li>
+							In daily standup the Scrum Master generally asks the following:
+							What did you do yesterday ? What are you going to focus on today ?
+							And do you have impediments(roadblocks) ?.
+						</li>
+						<li>
+							They go around and see how everyone is doing. They make a list of
+							impediments so that they can{" "}
+							<span className="fw-bold"> make visible impediments</span> or can
+							work with a team member to go out there and resolve that
+							impediment.
+						</li>
+						<li>
+							In an environment where people didn't want to answer those three
+							questions. They do did something called appreciative inquiry. So
+							the question instead of asking 'what did you do yesterday?' what
+							we said is 'what are you going to focus on today? Are we in track
+							to meet our sprint goal?'
+						</li>
+						<li>
+							Will facilitate sprint meetings. And do whatever Team needs. Scrum
+							master <span className="fw-bold">facilitate Sprint review.</span>
+							<span className="fw-bold">
+								The sprint review is one of the most important ceremonies in
+								Scrum where the team gathers to review completed work and
+								determine whether additional changes are needed.{" "}
+							</span>
+							The official Scrum Guide describes it as a working session and
+							makes the point that the “Scrum team should avoid limiting it to a
+							presentation.”
+						</li>
+					</ul>
 					<br className="mb-3" />
 					<span className="fw-bold fs-2">The Development Team (Dev Team)</span>
 					<br className="mb-3" />
@@ -86,11 +130,31 @@ function Scrum2() {
 					</span>{" "}
 					They will actually talk among each other and figure out which I am to
 					work on next. Obviously looking at the priority provided by the
-					product owner. They talk to the product owner in almost a daily basis
+					product owner.
+					<br className="mb-3" />
+					They{" "}
+					<span className="fw-bold">
+						talk to the product owner in almost a daily basis
+					</span>{" "}
 					just to understand the priority and sequencing of the work. And there
-					are also cross-functional. Cross-functional means they have all the
-					skill sets that are required to develop that product or the feature
-					for that team.
+					are also cross-functional.{" "}
+					<span className="fw-bold">
+						Cross-functional means they have all the skill sets that are
+						required to develop that product or the feature for that team.
+					</span>
+					<ul>
+						<li>
+							{" "}
+							In an Agile team, no matter what your title is you're just part of
+							the team and you want to You are a self-organizing team. But we
+							both want to help each other out.
+						</li>
+						<li>
+							So when you are a developer, part of the Agile team. You're not
+							saying that you can only do this. You still have to learn other
+							components of what the team was developing.
+						</li>
+					</ul>
 				</p>
 			</div>
 		</div>

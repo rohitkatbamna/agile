@@ -5,6 +5,7 @@ import MainLanding from "./page/mainlanding";
 import Principle from "./page/principle";
 import Problems from "./page/Problems";
 import Scrum2Page from "./page/scrum2page";
+import Scrum3page from "./page/scrum3page";
 import ScrumPage from "./page/ScrumPage";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
 						<Route path="/problems" element={<Problems />} />
 						<Route path="/scrum" element={<ScrumPage />} />
 						<Route path="/scrum2" element={<Scrum2Page />} />
+						<Route path="/scrum3" element={<Scrum3page />} />
 					</Routes>
 				</Router>
 			</div>

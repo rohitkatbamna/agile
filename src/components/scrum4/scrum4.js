@@ -427,7 +427,7 @@ function Scrum4() {
 					out. So that is a traditional methodology.
 				</span>
 				<br className="mb-3" />
-				<span className="fst-italic fw-bold mt-3">
+				<span className="fst-italic fw-bold">
 					Now let's take a look at an agile methodology. It takes these stages
 					and it still uses them, but it flips them on their head. So instead of
 					going from stage to stage to stage throughout time, the stages are
@@ -454,7 +454,7 @@ function Scrum4() {
 				to continue to realize that value rather than waiting for all of their
 				features as part of this project to be complete.
 				<br className="mb-3" />{" "}
-				<span className="fst-italic fw-bold mt-3">
+				<span className="fst-italic fw-bold">
 					So product increment is a vertical slice of a potentially shippable
 					product that's developed as part of a sprint time-box.
 				</span>

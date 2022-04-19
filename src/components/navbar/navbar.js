@@ -93,7 +93,13 @@ function MainNavbar() {
 									</Link>
 								</li>
 								<li className="nav-item">
-									<p className="nav-link disabled">Disabled</p>
+									<Link to="/scrum5">
+										<p
+											className="nav-link btn btn-primary fs-5"
+											aria-current="page">
+											Scrum 5
+										</p>
+									</Link>
 								</li>
 							</ul>
 						</div>

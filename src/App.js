@@ -7,6 +7,7 @@ import Problems from "./page/Problems";
 import Scrum2Page from "./page/scrum2page";
 import Scrum3page from "./page/scrum3page";
 import Scrum4page from "./page/scrum4page";
+import Scrum5Page from "./page/scrum5page";
 import ScrumPage from "./page/ScrumPage";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
 						<Route path="/scrum2" element={<Scrum2Page />} />
 						<Route path="/scrum3" element={<Scrum3page />} />
 						<Route path="/scrum4" element={<Scrum4page />} />
+						<Route path="/scrum5" element={<Scrum5Page />} />
 					</Routes>
 				</Router>
 			</div>

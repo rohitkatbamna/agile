@@ -92,6 +92,93 @@ function Scrum6() {
 					<li>Doesn't value agile mindset.</li>
 				</ol>
 			</p>
+			<h3 className="fw-bold">Subject Matter Expert / Senior User</h3>
+			<p className="fs-4">
+				<span className="fw-bold fst-italic">
+					These are the people on the business side, that have been working in
+					that industry, working in that business for a while. They get it. They
+					know the technology, and or they know the processes, and or they know
+					the industry and the business. And so here are the responsibility of
+					those folks.
+				</span>
+				<ol>
+					<li>Provides thier needs and the needs of other users.</li>
+					<li>Hijiacks ceremonies to dicuss 'high-priority' topics.</li>
+					<li>Participates in Sprint Reviews(and other feedback demos).</li>
+					<li>Gains and communicates feedback on product deliverables</li>
+					<li>Provides perspective and context for requirements.</li>
+					<li>Completes requested testing in a timely manner.</li>
+					<li>Ensures user story results are used properly</li>
+				</ol>
+			</p>
+			<h3 className="fw-bold">Business Users</h3>
+			<p className="fs-4">
+				<span className="fw-bold fst-italic">
+					Similar to the Senior Users, the Business Users are helping to provide
+					their needs. They're helping to give context and perspective, as to
+					what they need and what they want to have within the solution. If
+					those Business Users are invited to the feedback demos, go! It's very
+					important if the Agile team is inviting various Business Users to
+					feedback demos. It's for a reason that they have a unique perspective
+					or unique use of that product deliverable. And it's important that
+					they attend and provide their feedback. Obviously, with the Business
+					User, you're going to attend, watch or read training on the
+					deliverables.
+				</span>
+				<ol>
+					<li>Provides their needs (differentiates wants and needs).</li>
+					<li>Provides perspective and context for requirements.</li>
+					<li>Attends feedback demo they are invited to.</li>
+					<li>Attends, watches, or reads training on deliverables</li>
+					<li>Utilizes deliverable and gives feedback.</li>
+					<li>Completes requested testing in a timely manner</li>
+				</ol>
+			</p>
+			<h3 className="fw-bold">Agile Coach</h3>
+			<p className="fs-4">
+				<span className="fw-bold fst-italic">
+					{" "}
+					The Agile coach is an experienced Agile practitioner. This could be a
+					consultant, it could be somebody that works within the organization.
+					They're there to help train, guide and support the full Agile for the
+					organization. So they're experienced in the Agile ways. They
+					understand the ceremonies. They understand the terms. They understand
+					the roles and responsibilities. And so they're helping everyone, all
+					those various roles know, what their roles and responsibilities are
+					within the various aspects of the project. But beyond that, they're
+					also ensuring that the ceremonies that are being done, are done
+					correctly according to the guidelines that the Agile values. And
+					principles are being upheld within the organization.
+				</span>
+				<br className="mb-3" />
+				So a lot of times, an Agile coach is brought in. Obviously, as companies
+				are transitioning to Agile. But even after that, a lot of them hang onto
+				an Agile coach. Just to really sit back, see the full picture and help
+				guide the organization forward with Agile. And make sure that everybody
+				knows, what they're doing and point out any type of issues or changes
+				that need to be made, for the organization to be better from an Agile
+				perspective or just better from an overall perspective.
+			</p>
+			<h2 className="fw-bold">Post Script</h2>
+			<p className="fs-3">
+				Now, one point of clarification, is we've talked about and taught you
+				about these five other Agile roles. The Project Sponsor, the Business
+				Leaders, Technology Leaders, Senior Users, and Business Users. And we've
+				taught you these, based on kind of a Scrum perspective. We taught you
+				about Scrum and we've tied this into Scrum. But I wanted to make mention
+				that these roles are also the same thing for Kanban, for Scrumban, and
+				other Agile frameworks. These roles are still helping out move the Agile
+				team forward. That Project Sponsor, while they may not be working with a
+				person titled Product Owner. They're working to approve the budget and
+				make sure that the needs and objectives of the organization are being
+				met with this particular project. Same with the Business Leaders. So the
+				roles and responsibilities that we've taught throughout this section,
+				can be applied regardless of the framework. We just applied it to more
+				of a Scrum looking framework. Because that's what's familiar to you.
+				Because that's what's been taught at this point in the course. So I hope
+				that helps to make sense. That those five additional roles will play a
+				part, regardless of your Scrum or another Agile framework.
+			</p>
 		</div>
 	);
 }

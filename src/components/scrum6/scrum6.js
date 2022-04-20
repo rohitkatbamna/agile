@@ -16,40 +16,81 @@ function Scrum6() {
 					move forward and achieve that solution. With that, the Project
 					Sponsors are helping to shape that project need and the outcomes.
 				</span>
-				<br className="mb-3" />
-				Obviously, they need to make sure that, that project and that solution
-				that's being developed, will fit within that big picture view. And will
-				provide that value that they've determined. As a Project Sponsor, you're
-				more aligned with the company objectives and their goals and kind of the
-				vision of the company and where it's going. And so the Project Sponsors
-				are also there to ensure that that project stays aligned to those
-				company objectives. From a ceremony perspective or an Agile meeting
-				perspective, the Project Sponsor isn't expected to go to all the various
-				ceremonies on a Sprint basis. Instead, the big ones that they should be
-				participating in are the Sprint Reviews or other feedback demos. Now,
-				remember the Sprint Review is where the team is demoing what they've
-				completed as part of that Sprint. It's important for that Project
-				Sponsor to be involved and see how that solution is being developed.
-				That will help them make sure that it's shaping towards the needs and
-				the outcomes, of what they've identified as well as that it's keeping
-				aligned with the company objectives. One little thing that Project
-				Sponsors can do that really help the Agile team, is recognizing them for
-				their quality work. So when things are going well, when things and team
-				members do well. Giving them that little bit of recognition goes a long
-				way. It means a lot to those team members that are working hard, Sprint
-				In and Sprint Out. Another thing, that the Project Sponsor needs to
-				ensure they're doing is encouraging cross-team and cross-department
-				collaboration. There's a lot of open communication and open dialogue in
-				Agile. And with the development team, they're self-organizing. But to be
-				self-organizing, they have to really be encouraged or at least told that
-				they can talk to those other teams and talk to those other departments
-				and pull in people that they need to meet their objectives. And the
-				Project Sponsor also helps to provide perspective on that product impact
-				and use. This could be throughout the various Sprints and at the Sprint
-				Reviews, telling the team kind of how that product will be impacting the
-				business. Ultimately, how would those users be using that product? and
-				that feature, in order to meet those various objectives. And the value
-				that was originally determined as part of the project and the solution.
+				<ol>
+					<li>Approves project and budget.</li>
+					<li>Provides the big picture view.</li>
+					<li>Helps shape the project needs and outcome.</li>
+					<li>Ensures project stays aligned to company ojectives.</li>
+					<li>Participates in Sprint Reviews(and other feedback demo).</li>
+					<li>Recognizes the team for quality work</li>
+					<li>Encourages corss-team/ cross-department collaboration.</li>
+					<li>Provides perspective on product impact and use.</li>
+				</ol>
+			</p>
+			<h3 className="fw-bold">Business Management or Business Executives</h3>
+			<p className="fs-4">
+				<span className="fst-italic fw-bold">
+					This is the Business Management or Business Executives, within the
+					organization. One of their responsibilities, that's extremely
+					important is just making sure they have an open mind. And they're
+					enabling access to their various business resources. Whether that be
+					their management team, their supervisors, their subject matter
+					experts, their users or other business resources that are necessary to
+					help make sure that, that solution meets those business needs.
+				</span>
+				<ol>
+					<li>Enables access to necessary business resources.</li>
+					<li>Provides the needs of management.</li>
+					<li>
+						Ensures user story results are creating value for the business.
+					</li>
+					<li>Escalates resolution of identified impediments(as needed).</li>
+					<li>Participates in Sprint Reviews.</li>
+					<li>Encourages corss-team/ cross-department collaboration.</li>
+					<li>Acknowledges team successes and provides support.</li>
+				</ol>
+			</p>
+			<h3 className="fw-bold">Technology Leaders</h3>
+			<p className="fs-4">
+				<span className="fw-bold fst-italic">
+					These are the various IT managers, directors or executives of
+					technology. The number one thing, that technology leaders need to make
+					sure they're doing. If they don't do anything else. This is number one
+					and that is hiring the right team members with the right skill-sets in
+					Agile. Every team member has to be able to produce, on their own. They
+					need to be able to solve little problems that come up, hiccups that
+					come up. And they need to be able to collaborate and work with other
+					team members, in order to help the team create that solution and solve
+					that business problem.
+				</span>
+				<ol>
+					<li>Hire Team members with right skillset.</li>
+					<li>Gives up control - empowers, trusts, and support team.</li>
+					<li>Enables access to necessary technology resources.</li>
+					<li>Escalates resolution of identified impediments(as needed).</li>
+					<li>Participates in Sprint Reviews.</li>
+					<li>Encourages corss-team/ cross-department collaboration.</li>
+					<li>Acknowledges team successes and resolves team conflicts.</li>
+					<li>Ensures solution is aligned with organizational standards.</li>
+				</ol>
+			</p>
+			<h3 className="fw-bold">Agile Detractors - Leadership</h3>
+			<p className="fs-4">
+				<span className="fw-bold fst-italic">
+					These are things that negatively affect the team, as well as, the
+					Agile project.
+				</span>
+				<ol>
+					<li>Demands mid-sprint changes.</li>
+					<li>Hijiacks ceremonies to dicuss 'high-priority' topics.</li>
+					<li>
+						Not available for demos . Then requests changes at the sprint
+						Reviews.
+					</li>
+					<li>Discourages communication with other teams.</li>
+					<li>Removes or changes available resources min-project.</li>
+					<li>Doesn't value agile mindset.</li>
+				</ol>
 			</p>
 		</div>
 	);

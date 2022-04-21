@@ -231,6 +231,97 @@ function Scrum7() {
 					forward.
 				</Np>
 			</Bita>
+			<h2 className="fw-bold">Small List of Major one line defination </h2>
+			<h3>
+				<ol>
+					<li>
+						{" "}
+						<Bita>Sprint</Bita> Is a time-box - a specific set of time{" "}
+					</li>
+					<li>
+						{" "}
+						<Bita>Courage Value</Bita>: Do the right thing and work on tough
+						problems
+					</li>
+					<li>
+						<Bita>Definition of Ready</Bita> User story contains enough details
+						to be worked
+					</li>
+					<li>
+						<Bita>Product Increment</Bita> Vertical slice of a potentially
+						shippable product
+					</li>
+					<li>
+						<Bita>Burndown Chart</Bita> Visual aid that shows trending of user
+						stories completed
+					</li>
+					<li>
+						<Bita>Sprint Retrospective</Bita> Share lessons learned from the
+						previous iteration
+					</li>
+					<li>
+						<Bita>Scrum Master</Bita> Servant leader that removes roadblocks
+					</li>
+					<li>
+						<Bita>Focus Value:</Bita>Complete the right work based on sprint
+						goals
+					</li>
+					<li>
+						<Bita>Sprint Review</Bita> Meeting to demo progress made during the
+						iteration
+					</li>
+					<li>
+						<Bita>User Story</Bita> Simple description of a feature from a
+						user’s perspective
+					</li>
+					<li>
+						<Bita>Sprint Backlog</Bita> Committed user stories for upcoming
+						iteration
+					</li>
+					<li>
+						<Bita>Product Owner</Bita> Tasked with understanding the product
+						vision
+					</li>
+					<li>
+						<Bita>Sprint planning</Bita> Discussion and commitment for the next
+						iteration’s work
+					</li>
+					<li>
+						<Bita>Respect</Bita> Value: Treat everyone as a capable team member
+					</li>
+					<li>
+						<Bita>Product Backlog</Bita> Prioritized list of user stories that
+						grows and changes
+					</li>
+					<li>
+						<Bita>Definition of Done</Bita> Common understanding of when
+						something is complete
+					</li>
+					<li>
+						<Bita>Daily Standup</Bita> Discussion of yesterday’s progress,
+						today’s plan, and issues
+					</li>
+					<li>
+						<Bita>Working Agreement</Bita> Team-created list of rules,
+						expectations, and procedures
+					</li>
+					<li>
+						<Bita>Openness Value:</Bita> Discuss the work and challenges of the
+						project
+					</li>
+					<li>
+						<Bita>Team Velocity</Bita> Number of story points that are completed
+						per iteration
+					</li>
+					<li>
+						<Bita>CommitmentValue:</Bita> Give 100% effort to achieve project
+						team’s goals
+					</li>
+					<li>
+						<Bita>Work in Progress</Bita> Work that is currently being completed
+					</li>
+				</ol>
+			</h3>
 		</div>
 	);
 }

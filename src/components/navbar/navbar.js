@@ -23,7 +23,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Four Values
 										</p>
@@ -32,7 +32,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/12pri">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											12 Principles
 										</p>
@@ -41,7 +41,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/agilebenefits">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Agile Benefits
 										</p>
@@ -50,7 +50,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/problems">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Agile Problems
 										</p>
@@ -59,7 +59,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum
 										</p>
@@ -68,7 +68,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum2">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 2
 										</p>
@@ -77,7 +77,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum3">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 3
 										</p>
@@ -86,7 +86,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum4">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 4
 										</p>
@@ -95,7 +95,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum5">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 5
 										</p>
@@ -104,7 +104,7 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum6">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 6
 										</p>
@@ -113,9 +113,18 @@ function MainNavbar() {
 								<li className="nav-item">
 									<Link to="/scrum7">
 										<p
-											className="nav-link btn btn-primary fs-5"
+											className="nav-link btn btn-primary fs-6"
 											aria-current="page">
 											Scrum 7
+										</p>
+									</Link>
+								</li>
+								<li className="nav-item">
+									<Link to="/kanban">
+										<p
+											className="nav-link btn btn-primary fs-6"
+											aria-current="page">
+											Kanban
 										</p>
 									</Link>
 								</li>

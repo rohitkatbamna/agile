@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AgilebenefitsPage from "./page/agilebenefitspage";
+import KanbanPage from "./page/Kanbanpage";
 import MainLanding from "./page/mainlanding";
 import Principle from "./page/principle";
 import Problems from "./page/Problems";
@@ -29,6 +30,7 @@ function App() {
 						<Route path="/scrum5" element={<Scrum5Page />} />
 						<Route path="/scrum6" element={<Scrum6page />} />
 						<Route path="/scrum7" element={<Scrum7page />} />
+						<Route path="/kanban" element={<KanbanPage />} />
 					</Routes>
 				</Router>
 			</div>

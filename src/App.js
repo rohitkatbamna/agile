@@ -9,6 +9,7 @@ import Scrum3page from "./page/scrum3page";
 import Scrum4page from "./page/scrum4page";
 import Scrum5Page from "./page/scrum5page";
 import Scrum6page from "./page/scrum6page";
+import Scrum7page from "./page/scrum7page";
 import ScrumPage from "./page/ScrumPage";
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
 						<Route path="/scrum4" element={<Scrum4page />} />
 						<Route path="/scrum5" element={<Scrum5Page />} />
 						<Route path="/scrum6" element={<Scrum6page />} />
+						<Route path="/scrum7" element={<Scrum7page />} />
 					</Routes>
 				</Router>
 			</div>

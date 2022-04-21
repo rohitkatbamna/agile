@@ -1,11 +1,10 @@
-.scrum5_all_of_it {
+.scrum7_all_of_it {
 	font-family: "Merriweather", serif;
 	text-align: start;
 	margin-left: 10vw;
 	margin-right: 10vw;
-
 	@media print {
-		.print_not_show {
+		.do_not_print {
 			display: none;
 		}
 	}

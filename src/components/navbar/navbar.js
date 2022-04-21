@@ -110,6 +110,15 @@ function MainNavbar() {
 										</p>
 									</Link>
 								</li>
+								<li className="nav-item">
+									<Link to="/scrum7">
+										<p
+											className="nav-link btn btn-primary fs-5"
+											aria-current="page">
+											Scrum 7
+										</p>
+									</Link>
+								</li>
 							</ul>
 						</div>
 					</div>

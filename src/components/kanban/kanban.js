@@ -86,96 +86,144 @@ function Kanban() {
 				that particular card has moved from one status to another. So let's kind
 				of take a step back.
 				<Next></Next>
-				So kanban boards, they can be both physical or virtual. Physical meaning
-				it's a board inside of some type of office room, it's a white board
-				that's been, you know, with markers drawn into a kanban board and then
-				you use sticky notes or some type of note cards with a tack pen or note
-				with a piece of tape that are actually hanging those kanban cards in the
-				appropriate column of the kanban boards. So that's the physical side.
+				So kanban boards, they can be both physical or virtual.{" "}
+				<Bita>
+					Physical meaning it's a board inside of some type of office room, it's
+					a white board that's been, you know, with markers drawn into a kanban
+					board and then you use sticky notes or some type of note cards with a
+					tack pen or note with a piece of tape that are actually hanging those
+					kanban cards in the appropriate column of the kanban boards. So that's
+					the physical side.
+				</Bita>
 				From a virtual side you can use various applications. My favorite
-				application to utilize for kanban is Trello. It's trello.com trello.com
-				And it's a completely free application where you can do basic kanban
-				inside of that application. Another very popular one is Jira. Jira is a
-				little bit bigger. It's a premium one. It's not free, you have to pay
-				for it, but a lot of organizations that utilize kanban will use Jira or
-				maybe some other type of premium software to track.
+				application to utilize for kanban is Trello. It's trello.com And it's a
+				completely free application where you can do basic kanban inside of that
+				application. Another very popular one is Jira. Jira is a little bit
+				bigger. It's a premium one. It's not free, you have to pay for it, but a
+				lot of organizations that utilize kanban will use Jira or maybe some
+				other type of premium software to track.
 				<Next></Next>
 				So it doesn't matter what piece of software you are utilizing, the look
 				and the feel are going to be different, but the concepts of kanban are
-				going to be the same. So let's walk through and let's assume that this
-				board is a physical kanban board. So this is, these columns are drawn on
-				to a white board where our agile team resides, where our agile team is
-				working and our kanban cards are sticky notes that are put up on that
-				board in the appropriate column. In this case, everything's in the to
-				do. Now as a team member working on this, I don't get assigned or tasked
-				with work items with kanban cards. Instead I go out there and this is,
-				kanban is considered a pull methodology meaning that I go out there and
-				I pull work. I make a determination as to what is the highest priority
-				and what task needs to be completed next. So I look at my kanban board
-				and in generally regardless of its physical or virtual. Most teams will
-				have the kanban card set up from the top being the most priority, the
-				bottom being the least priority. So as we look here the highest priority
-				sticky notes or cards that we have in this case are setting up a meeting
-				with Frank, updating some server requirements and as we move on creating
-				a process flowchart, ordering lunch etc. So usually it's top priority on
-				down and it's not always like a list. Right, because I may not be able
-				to do a code review, which is one of the items on this list. So you
-				don't want like 1 through 10 type of thing. You want a generalized
-				priority, a general idea. This is a higher priority or a lower priority.
-				So you know what to choose. So anyways I'm a kanban team member, I need
-				to pull some work, I need to do something and I look through here. I'm
-				not really sure what this meeting with Frank is all about. So I'm going
-				to skip that one. Server requirements document. Not really my cup of
-				tea, the networking guy is going to probably handle that one. Create a
-				process flowchart. I can do that. That is a good one for me. It's a
-				higher priority, it's towards the top so I'm going to go ahead and
-				assign this task to me, I'm going to take ownership of this task and
-				getting it completed. On a physical board, I would walk up I'd grab that
-				sticky note and pull it off. And I'd simply stick it in the doing
-				column. Now that task is assigned to me. Now with a virtual board,
-				you're going to have all your dates and times and who did it, audit it,
-				automatically right. It's automatically in a track, so you can pull that
-				later for some things that we will need. On a physical board, a little
-				bit more difficult. What I've seen a lot of people do to try to track
-				those dates and times that these cards are moved from one status to
-				another is to actually flip that card over and on the back of it write
-				their name, the date and time and what the status was changed to. That
-				way they're tracking when it was moved to doing it when it was moved to
-				done. I've also seen a lot of organizations that do it that way when
-				they create the initial card and they put it in the to do column. They
-				do the same thing. They write the name of the person that created the
-				work item, that particular card, they write the date and the time and
-				that it's a status of to do. So when you look at the back of those cards
-				you can see the audit trail of what that card did from date, and you
-				know, from date to date or over time and kind of see how that card
+				going to be the same.
+				<Bita>
+					{" "}
+					So let's walk through and let's assume that this board is a physical
+					kanban board. So this is, these columns are drawn on to a white board
+					where our agile team resides, where our agile team is working and our
+					kanban cards are sticky notes that are put up on that board in the
+					appropriate column.
+					<Next></Next>
+					In this case, everything's in the to do. Now as a team member working
+					on this, I don't get assigned or tasked with work items with kanban
+					cards. Instead I go out there and this is, kanban is considered a pull
+					methodology meaning that I go out there and I pull work. I make a
+					determination as to what is the highest priority and what task needs
+					to be completed next. So I look at my kanban board and in generally
+					regardless of its physical or virtual.
+					<Next></Next>
+					Most teams will have the kanban card set up from the top being the
+					most priority, the bottom being the least priority. So as we look here
+					the highest priority sticky notes or cards that we have in this case
+					are setting up a meeting with Frank, updating some server requirements
+					and as we move on creating a process flowchart, ordering lunch etc.
+				</Bita>{" "}
+				<Next></Next>
+				So usually it's top priority on down and it's not always like a list.
+				Right, because I may not be able to do a code review, which is one of
+				the items on this list. So you don't want like 1 through 10 type of
+				thing. You want a generalized priority, a general idea. This is a higher
+				priority or a lower priority. So you know what to choose. So anyways I'm
+				a kanban team member, I need to pull some work, I need to do something
+				and I look through here. I'm not really sure what this meeting with
+				Frank is all about. So I'm going to skip that one.
+				<Next></Next>
+				Server requirements document. Not really my cup of tea, the networking
+				guy is going to probably handle that one. Create a process flowchart. I
+				can do that. That is a good one for me. It's a higher priority, it's
+				towards the top so I'm going to go ahead and assign this task to me, I'm
+				going to take ownership of this task and getting it completed. On a
+				physical board, I would walk up I'd grab that sticky note and pull it
+				off. And I'd simply stick it in the doing column. Now that task is
+				assigned to me.
+				<Next></Next>
+				Now with a virtual board, you're going to have all your dates and times
+				and who did it, audit it, automatically right. It's automatically in a
+				track, so you can pull that later for some things that we will need. On
+				a physical board, a little bit more difficult.{" "}
+				<Bita>
+					What I've seen a lot of people do to try to track those dates and
+					times that these cards are moved from one status to another is to
+					actually flip that card over and on the back of it write their name,
+					the date and time and what the status was changed to.
+				</Bita>{" "}
+				<Next></Next>
+				That way they're tracking when it was moved to doing it when it was
+				moved to done. I've also seen a lot of organizations that do it that way
+				when they create the initial card and they put it in the to do column.
+				They do the same thing. They write the name of the person that created
+				the work item, that particular card, they write the date and the time
+				and that it's a status of to do. So when you look at the back of those
+				cards you can see the audit trail of what that card did from date, and
+				you know, from date to date or over time and kind of see how that card
 				evolved and moved through the various statuses. So I've taken ownership
 				of that particular work item. Now once I get done with that work item I
 				would simply go grab the work item and physically move it to the done
-				column. In a virtual board, same type of thing like what you saw me do
-				on the screen, in a virtual board is a lot of click and dragging to
-				another column. The physical board obviously you got to walk up to it
-				and remove the item and move it over to another column. But don't forget
-				I'm going to flip it over and write my name, the date and the time and
-				the updated status on the back of that card. Well, I have completed my
-				process flowchart. Next? Now I need to do another task so I'm going to
-				look at these tasks, maybe ordering lunch is important. Maybe it's 10
-				a.m. now, we have a lunch meeting at 12:30 and which we're ordering
-				lunch for the team and we're going to have kind of a in-house training
-				or what have you. And so I need to order lunch for that particular
-				meeting. So let's go ahead and take that and we're going to move that to
-				the doing. We're going to flip that card over, write our name, the date,
-				the time and the updated status for our audit records. And you just keep
-				going through this. Now this kind of kanban isn't just for me. All team
-				members, the network guy maybe he comes out and says, oh yeah, I'm going
-				to update those server requirements, I'm going to do that. Setting up
-				the meeting with Frank, maybe Betty, who has, needs to get more
-				information from Frank had put that work item out there and she goes
-				ahead and takes ownership of that particular task. So these tasks are
-				moving, being created, put in the to oo column, moving to the doing and
-				the done and everything is just very fluid. Everybody's taking ownership
-				and they're working to get that particular work item started and
-				completed.
+				column.
+				<Next></Next>
+				In a virtual board, same type of thing like what you saw me do on the
+				screen, in a virtual board is a lot of click and dragging to another
+				column. The physical board obviously you got to walk up to it and remove
+				the item and move it over to another column. But don't forget I'm going
+				to flip it over and write my name, the date and the time and the updated
+				status on the back of that card. Well, I have completed my process
+				flowchart.
+				<Next></Next>
+				Next? Now I need to do another task so I'm going to look at these tasks,
+				maybe ordering lunch is important. Maybe it's 10 a.m. now, we have a
+				lunch meeting at 12:30 and which we're ordering lunch for the team and
+				we're going to have kind of a in-house training or what have you. And so
+				I need to order lunch for that particular meeting. So let's go ahead and
+				take that and we're going to move that to the doing. We're going to flip
+				that card over, write our name, the date, the time and the updated
+				status for our audit records.
+				<Next></Next>
+				And you just keep going through this.
+				<Bita>
+					{" "}
+					Now this kind of kanban isn't just for me. All team members, the
+					network guy maybe he comes out and says, oh yeah, I'm going to update
+					those server requirements, I'm going to do that. Setting up the
+					meeting with Frank, maybe Betty, who has, needs to get more
+					information from Frank had put that work item out there and she goes
+					ahead and takes ownership of that particular task. So these tasks are
+					moving, being created, put in the to oo column, moving to the doing
+					and the done and everything is just very fluid. Everybody's taking
+					ownership and they're working to get that particular work item started
+					and completed.
+				</Bita>
+				<Next></Next>
+				<Bita>PS</Bita>
+				<Next></Next>
+				Now one thing to reiterate on the kanban cards is these cards aren't
+				going to house just the words of what that particular work item is and
+				the dates and times of the status moves. They also can house other
+				details such as deadlines. They also can house different details like
+				references to other materials that can be utilized to complete that
+				particular task. Now those references are a lot easier to do in a
+				virtual board where you can actually attach documents or attach a link
+				to that particular card inside that online application, rather than a
+				physical board where you're kind of writing notes as to where to find
+				those details because you obviously can't have an actual link to it when
+				it's a physical card taped or stuck up on to a kanban board. So what is
+				one to make sure that that was absolutely clear. Kanban cards won't just
+				have the details. They also have other information on them. And that
+				information's going to vary depending on the various organizations you
+				work with and work for. Because remember kanban conforms to the
+				organization it's going to. It doesn't have that organization conform to
+				it.
 			</Np>
+			<h1 className="fw-bold">Six general practices of kanban.</h1>
 		</div>
 	);
 }

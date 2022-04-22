@@ -6,7 +6,7 @@ function MainNavbar() {
 	return (
 		<>
 			<div className="main_navbar_all_of_it">
-				<nav className="navbar navbar-expand-lg navbar-light">
+				<nav className="navbar navbar-expand-xl navbar-light">
 					<div className="container-fluid">
 						<button
 							className="navbar-toggler"

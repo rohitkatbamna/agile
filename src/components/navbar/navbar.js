@@ -128,6 +128,15 @@ function MainNavbar() {
 										</p>
 									</Link>
 								</li>
+								<li className="nav-item">
+									<Link to="/scrumban">
+										<p
+											className="nav-link btn btn-primary fs-6"
+											aria-current="page">
+											Scrumban
+										</p>
+									</Link>
+								</li>
 							</ul>
 						</div>
 					</div>
